@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 02 23:07:31 ICT 2025","Wed Apr 02 23:07:42 ICT 2025","10792","Default Suite","newCheck","testcases.mapAppTest","testcases.mapAppTest","openMapApp","openMapApp",""
+"passed","Wed Apr 02 23:03:33 ICT 2025","Wed Apr 02 23:03:43 ICT 2025","9281","Default Suite","newCheck","testcases.mapAppTest","testcases.mapAppTest","openMapApp2","openMapApp2",""
+"passed","Wed Apr 02 23:03:06 ICT 2025","Wed Apr 02 23:03:14 ICT 2025","7808","Default Suite","newCheck","testcases.mapAppTest","testcases.mapAppTest","openMapApp3","openMapApp3",""
+"passed","Wed Apr 02 22:37:46 ICT 2025","Wed Apr 02 22:37:53 ICT 2025","7401","Run test all","test1","testcases.mapAppTest","testcases.mapAppTest","openMapApp1","openMapApp1",""

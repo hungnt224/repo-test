@@ -1,0 +1,1 @@
+openMapApp is PASSED
